@@ -1,3 +1,3 @@
-# Weather-app-without-geolocator
+# Weather-app
 Am Trying some Vanilla JS projects by building something from what i've learnt...
 So i decided to build a weather app.
